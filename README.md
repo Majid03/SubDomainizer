@@ -99,7 +99,7 @@ python3 SubDomainizer.py -u https://www.example.com -o output.txt -gt <github_to
 ```
 python3 SubDomainizer.py -u https://www.example.com -o output.txt -gt <github_token> -g  -k
 ```
-* Folder Scanning:
+* Folder Scanning :
 ```
 python3 SubDomainizer.py -f /path/to/root/folder/having/files/and/folders/  -d example.com  -gt <github_token> -g  -k
 ```
